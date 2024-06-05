@@ -60,8 +60,12 @@
         display: block;
       }
 .img#floatButton1 {
-    position: fixed;
-    left: 0;
-    top: 50px;
+  	z-index: 100;
+  	position: fixed;
+ 	left: 0; /* 画面左端に固定 */
+  	bottom: 0; /* 画面下に固定 */
+  	width: 100%;
+  	padding-top: 20px;
+  	padding-bottom: 20px;
 	}
 }
