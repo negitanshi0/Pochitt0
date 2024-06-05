@@ -59,3 +59,9 @@
         height: 250px;
         display: block;
       }
+.img#floatButton1 {
+    position: fixed;
+    left: 0;
+    top: 50px;
+	}
+}
