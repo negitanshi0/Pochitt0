@@ -68,7 +68,6 @@
 .contents3 {
   height: 2000px;
   width: 100%;
-  background: rgb(255,201,114);
   background: linear-gradient(118deg, rgba(255,201,114,1) 0%, rgba(246,179,84,1) 40%, rgba(231,229,97,1) 100%);
 	}
 
